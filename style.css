@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*박스 영역은 테두리까지 지정*/
+}
+#container{
+    margin: 0 auto; /*화면 중앙에 배치*/
+    width: 1200px;  /*너비 지정*/
+}
+
